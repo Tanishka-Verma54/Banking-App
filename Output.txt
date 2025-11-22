@@ -1,0 +1,83 @@
+==================================================
+      Welcome to the Banking App!
+==================================================
+Welcome! Please enter your name to open an account: Tanishka
+
+--- ACCOUNT CREATION ---
+Enter initial deposit amount (0.00 or higher): ₹2000
+ Account created for Tanishka with an initial balance of ₹2000.00.
+--------------------------------------------------
+Choose an operation:
+1: Deposit Money
+2: Withdraw Money
+3: Check Balance
+4: Take Loan (EMI Calculator)
+5: Exit Application
+--------------------------------------------------
+Enter your choice (1-5): 1
+
+--- DEPOSIT ---
+Enter amount to deposit (or 'q' to cancel): ₹10000
+
+ Deposit successful! Added ₹10000.00.
+ Current balance for Tanishka: ₹12000.00
+--------------------------------------------------
+Choose an operation:
+1: Deposit Money
+2: Withdraw Money
+3: Check Balance
+4: Take Loan (EMI Calculator)
+5: Exit Application
+--------------------------------------------------
+Enter your choice (1-5): 2
+
+--- WITHDRAW ---
+Enter amount to withdraw (or 'q' to cancel): ₹5000
+
+ Withdrawal successful! Withdrew ₹5000.00.
+ Current balance for Tanishka: ₹7000.00
+--------------------------------------------------
+Choose an operation:
+1: Deposit Money
+2: Withdraw Money
+3: Check Balance
+4: Take Loan (EMI Calculator)
+5: Exit Application
+--------------------------------------------------
+Enter your choice (1-5): 3
+
+--- BALANCE ---
+ Current balance for Tanishka: ₹7000.00
+--------------------------------------------------
+Choose an operation:
+1: Deposit Money
+2: Withdraw Money
+3: Check Balance
+4: Take Loan (EMI Calculator)
+5: Exit Application
+--------------------------------------------------
+Enter your choice (1-5): 4
+
+--- LOAN CALCULATION ---
+Enter the principal loan amount: ₹5000000
+Enter loan duration in full years: 25
+
+--- LOAN CALCULATION RESULT ---
+Loan Principal: ₹5000000.00
+Annual Interest Rate: 12%
+Loan Duration: 25 years (300 months)
+Your fixed monthly installment (EMI) will be: ₹52661.21
+--------------------------------------------------
+--------------------------------------------------
+Choose an operation:
+1: Deposit Money
+2: Withdraw Money
+3: Check Balance
+4: Take Loan (EMI Calculator)
+5: Exit Application
+--------------------------------------------------
+Enter your choice (1-5): 5
+
+=========================================
+Thank you for banking with us, Tanishka! Have a great day.
+Final Account Summary: Account Holder: Tanishka, Balance: ₹7000.00
